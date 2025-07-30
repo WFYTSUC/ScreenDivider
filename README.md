@@ -4,4 +4,4 @@ Split screen into upper and lower parts, compatible with 64-bit Windows and M-ch
 
 上下分屏，适配64位windows与m芯片mac，方便看PDF对答案；
 
-<img src="https://github.com/user-attachments/assets/b4f4e62e-a50d-48ae-b5e0-a186720fd503" alt="1" width="350">
+<img src="https://github.com/user-attachments/assets/1a0c9aff-2029-4dfe-beac-24f47f9904f7" alt="1" width="350">
