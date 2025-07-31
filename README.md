@@ -4,9 +4,27 @@
 
 Split screen into upper and lower parts, compatible with 64-bit Windows and M-chip Mac, making it convenient to view PDFs and check answers.
 
-上下分屏，适配64位windows与m芯片mac，方便看PDF对答案；
+上下分屏，适配64位windows与m芯片mac，方便看PDF对答案。
 
 <img src="https://github.com/user-attachments/assets/1a0c9aff-2029-4dfe-beac-24f47f9904f7" alt="1" width="350">
+
+## Usage 用法
+
+Right-click on the horizontal bar and click "Split" to fix one half of the screen, while the other half can be scrolled. Press and hold the left mouse button to move its position
+
+右键点击横杠，点击“分割”可以固定其中一半屏幕，另一半屏幕可以滑动，左键摁住可以移动位置；
+
+Click "语言" or "Language" to switch languages
+
+点击“语言”或“Language”切换语言；
+
+There are also several options to change colors and fix the upper/lower half
+
+还有几个选项可以切换颜色、固定上半/下半部分；
+
+Click "Restore" to unfix, and click "Close" to exit the application.
+
+点击恢复取消固定，点击关闭退出应用。
 
 ## Abstract 摘要
 
